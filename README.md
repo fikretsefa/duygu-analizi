@@ -8,7 +8,9 @@ Duygu analizi, belirli bir metin parçasında ifade edilen görüşler gibi özn
 
 *Türkçe **detect_sentiment** tarafından desteklenmemektedir. Bu nedenle Türkçe veriler **TurkishNLP** ile hataların giderilmesi ve noktalama düzeltilmesi yapılmıştır. Daha sonrasında duygu analizi tespiti gerçekleştirilmiştir.
 
-<img src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" width="350" >
+<img src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" width="280" >
 
 **Boto3 Hakkında**
 Boto3, Python geliştiricilerinin Amazon S3 ve Amazon EC2 gibi hizmetlerden yararlanan yazılımlar yazmasına olanak tanıyan, Python için Amazon Web Hizmetleri (AWS) Yazılım Geliştirme Kitidir (SDK). Desteklenen hizmetlerin listesi dahil olmak üzere güncel bilgileri <a target="_blank" href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" >buradan</a> inceleyebilirsiniz.
+
+<hr>
