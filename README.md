@@ -6,7 +6,7 @@ Duygu analizi, belirli bir metin parçasında ifade edilen görüşler gibi özn
 
 ![](https://media.giphy.com/media/jKGh2Ivl4WKunZzhbU/giphy.gif)
 
-*Türkçe **detect_sentiment** tarafından desteklenmemektedir. Bu nedenle Türkçe veriler **TurkishNLP** ile hataların giderilmesi ve noktalama düzeltilmesi yapılmıştır. Daha sonrasında duygu analizi tespiti gerçekleştirilmiştir.
+Türkçe **detect_sentiment** tarafından desteklenmemektedir. Bu nedenle Türkçe veriler **TurkishNLP** ile hataların giderilmesi ve noktalama düzeltilmesi yapılmıştır. Daha sonrasında duygu analizi tespiti gerçekleştirilmiştir.
 
 <img src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" width="280" >
 
