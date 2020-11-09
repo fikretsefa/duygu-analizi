@@ -6,8 +6,5 @@ Aws boto3 ile tercüme ve duygu analizi
 
 *Türkçe **detect_sentiment** tarafından desteklenmemektedir. Bu nedenle Türkçe veriler **TurkishNLP** ile hataların giderilmesi ve noktalama düzeltilmesi yapılmıştır. Daha sonrasında duygu analizi tespiti gerçekleştirilmiştir.
 
-<img src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" width="50" >
-<img style="width:50px" src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" />
-![](https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif)
-
+<img src="https://media.giphy.com/media/qEkkqpew7rHG6OJpoZ/giphy.gif" width="380" >
 
